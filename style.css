@@ -18,6 +18,7 @@ button{
     background-color: dimgrey;
     width: 102px;
     height: 58px;
+    margin: 6px;
 }
 .calculator{
     border-radius: 53px;
